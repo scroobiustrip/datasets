@@ -1,4 +1,4 @@
-item,week,date,sales,treated,excl,sat,sun,hol,sprice,cprice
+item,time,date,sales,treated,excl,sat,sun,hol,sprice,cprice
 store,0,2017-09-01,12.23076923076923,0,0,0.0,0.0,0.0,1.89,1.62
 comp,0,2017-09-01,13.692307692307692,0,0,,,,,
 w0,0,2017-09-01,11.923076923076923,0,0,,,,,
